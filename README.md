@@ -1,1 +1,1 @@
-# AplicatiiIntreprinderi
+# Laboratoare pentru Aplicatii Intreprinderi
