@@ -35,6 +35,7 @@ class SimulatedAnnealing:
 
         neighbour[index1], neighbour[index2] = neighbour[index2], neighbour[index1]
         
+        
         return neighbour
         
 
