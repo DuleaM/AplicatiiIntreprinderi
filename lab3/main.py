@@ -32,9 +32,7 @@ class SimulatedAnnealing:
         while index1 == index2:
             index2 = random.randint(0, len(neighbour) - 1)
             
-
         neighbour[index1], neighbour[index2] = neighbour[index2], neighbour[index1]
-        
         
         return neighbour
         
