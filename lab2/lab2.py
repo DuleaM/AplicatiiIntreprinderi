@@ -49,7 +49,7 @@ class KnapSack:
         return dp[-1]
 
 if __name__ == "__main__":
-    ks = KnapSack(input='diamonds.csv')
+    ks = KnapSack(input='lab2/diamonds.csv')
     print(ks.knap_sack())
 
 
